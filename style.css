@@ -61,8 +61,13 @@ body{
     height: 100%;
     display: flex;
     align-items: center;
-
+    transition: .5s ease;
 }
+
+.stack-container i:hover{
+    color: #CC5EF8;
+}
+
 
 
 .stack-box{
@@ -72,6 +77,7 @@ body{
     width: 10%;
     font-size: 4rem;
     text-decoration: none;
+
 }
 
 
@@ -111,7 +117,7 @@ body{
     border: 2px solid #CC5EF8;
     margin-top: 8%;
     text-decoration: none;
-    width: 240px;
+    width: 255px;
     margin-bottom: 100px;
 }
 
@@ -127,7 +133,7 @@ body{
 .bloob{
     width: 600px;
     height: 600px;
-    background: url(./assets/imagem_2023-05-20_114753095-removebg-preview.png);
+    background: url(./assets/imagem_2023-05-15_155232295_preview_rev_1.png);
     background-size: cover;
     background-position: center;
     border-radius: 42% 56% 72% 28% / 42% 42% 56% 48%;
