@@ -1,7 +1,7 @@
 const typingText = document.querySelector('.sec-text');
 
 let myArray =
-["Desenvolvedor Front-End", "Estudante", "Rato De Academia"];
+["Desenvolvedor Front-End", "Universitário", "Rato de Academia"];
 
 let arrayindex = 1;
 
