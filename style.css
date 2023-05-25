@@ -8,7 +8,7 @@
 body{
     background: #292929;
     color: #EAEAEA;
-    
+    height: 100%;
 }
 
 html{
@@ -328,3 +328,51 @@ button {
 .text-home-content{
     overflow: hidden;
 }
+
+
+.image-container {
+    position: fixed;
+    top: 48%;
+    left: 25%;
+}
+
+.centered-image {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+.image-container2{
+    position: fixed;
+    top: 10%;
+    left: 55%;
+}
+
+.centered-image2{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.image-container3{
+    position: fixed;
+    top: 79%;
+    left: 90%;
+
+}
+
+.centered-image3{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.image-container4{
+    position: fixed;
+    top: 10%;
+    left: 55%;
+}
+.centered-image4{
+    position: fixed;
+    top: 6%;
+    left: 25%;
+}
+
